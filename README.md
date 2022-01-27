@@ -4,7 +4,7 @@ This is a Flutter practice project.
 
 ## Project Screenshots
 
-![App Screenshot](https://github.com/TawhidKomol/i_am_rich/blob/main/images/Screenshot%202022-01-10%20094815.png?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/i_am_poor/blob/main/images/Screenshot%202022-01-27%20234710.png?raw=true)
 
 ## Getting Started
 
